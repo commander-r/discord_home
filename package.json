@@ -1,0 +1,14 @@
+{
+  "name": "discord-home",
+  "version": "4.2.1",
+  "description": "Discord Home a moderation, fun & utility discord bot!",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "author": "Commander R#9371",
+  "license": "ISC"
+}

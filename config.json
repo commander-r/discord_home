@@ -1,0 +1,42 @@
+{
+    "token": "",
+    "prefix": "",
+    "support_server": "",
+    "botlogs": "",
+    "owner": "",
+    "blacklist": [],
+    "errorChannel": "",
+    "port": "",
+    "website": {
+        "invite": "",
+        "support": "",
+
+        "main": "",
+        "tos": "",
+        "privacy": "",
+        "contributors": "",
+        "partners": "",
+        "vote": "",
+        "commands": ""
+    },
+    "roles": {
+        "ss_beta": "",
+        "ss_support": [""]
+    },
+    "emoji": {
+        "offline": "",
+        "online": "",
+        "idle": "",
+        "dnd": "",
+        "info": "",
+        "misc": "",
+        "mod": ""
+    },
+    "channels": {
+        "bug": "",
+        "suggest": ""
+    },
+    "gif": {
+        "footer": "https://cdn.discordapp.com/attachments/840550825344630794/845300194035892244/standard_1.gif"
+    }
+}
